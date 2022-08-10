@@ -14,7 +14,6 @@ The goal is to clean and explore data, select promising features and fit a model
 
 
 ### Files Description
-- mini_sparkify_event_data.json: synthetic dataset
 - main.ipynb: jupyter notebook containing the analysis
 
 
