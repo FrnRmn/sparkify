@@ -17,5 +17,9 @@ The goal is to clean and explore data, select promising features and fit a model
 - main.ipynb: jupyter notebook containing the analysis
 
 
+### Results
+Main results from this project are described in this Medium [post](https://medium.com/@francescoromandini/how-i-learned-pyspark-using-my-cheap-laptop-e57c90e014de).
+
+
 ### Credits
 - A useful guide on standardized vs unstandardized regression coefficients [here](https://quantifyinghealth.com/standardized-vs-unstandardized-regression-coefficients/)
